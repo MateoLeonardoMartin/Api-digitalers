@@ -5,7 +5,10 @@
         "mail": "ejemplo@mail.com",
         "tel": "+54 9 11-1234-5678",
         "descripcion": "Self-motivated developer, who is willing to learn and create outstanding UI applications.",
-        "avatar": "./Imagenes/Rectangle 1.png"
+        "avatar": "./Imagenes/Rectangle 1.png",
+        "imgmail": "./Imagenes/sobre.png",
+        "imgtel": "./Imagenes/telefono.png"
+        
     },
     "skills": [
         {
@@ -32,6 +35,7 @@
                 "titulo": "Responsivo",
                 "descripcion": "In this project, I work with HTML and CSS to create a responsive page . The design is from devchallenge.io. Donec aliquam est dui, vel vestibulum diam sollicitudin id. Quisque feugiat malesuada molestie.",
                 "img":"./Imagenes/portfolio 1.png"
+            
             },
             {
                 "etiqueta": "#HTML #CSS #responsive2",
