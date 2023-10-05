@@ -120,10 +120,32 @@
             "titulo":"Front-end Developer",
             "fecha":"Feb 2022 - Actualidad",
             "descripcion":"Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet.",
-            "img": "./Imagenes/adidas (icon — Colour).png"
+            "img": "./Imagenes/adidas.png"
+        },
+        {
+            "titulo":"Front-end Developer",
+            "fecha":"Feb 2022 - Actualidad",
+            "descripcion":"Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet.",
+            "img": "./Imagenes/adidas.png"
+        },
+        {
+            "titulo":"Front-end Developer",
+            "fecha":"Feb 2022 - Actualidad",
+            "descripcion":"Lorem ipsum dolor sit amet consectetur. Eget nulla eu cursus cursus pretium eu. Eget vestibulum quam aliquet.",
+            "img": "./Imagenes/adidas.png"
         }
     ],
     "certificado":[
+        {
+            "titulo":"Front-end Developer",
+            "fecha":"Feb 2020 - Feb 2021",
+            "img":"./Imagenes/Img_diploma.jfif"
+        },
+        {
+            "titulo":"Front-end Developer",
+            "fecha":"Feb 2020 - Feb 2021",
+            "img":"./Imagenes/Img_diploma.jfif"
+        },
         {
             "titulo":"Front-end Developer",
             "fecha":"Feb 2020 - Feb 2021",
